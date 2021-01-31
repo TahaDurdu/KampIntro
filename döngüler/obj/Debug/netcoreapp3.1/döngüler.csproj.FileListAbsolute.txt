@@ -1,0 +1,13 @@
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\bin\Debug\netcoreapp3.1\döngüler.exe
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\bin\Debug\netcoreapp3.1\döngüler.deps.json
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\bin\Debug\netcoreapp3.1\döngüler.runtimeconfig.json
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\bin\Debug\netcoreapp3.1\döngüler.runtimeconfig.dev.json
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\bin\Debug\netcoreapp3.1\döngüler.dll
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\bin\Debug\netcoreapp3.1\döngüler.pdb
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.csprojAssemblyReference.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.AssemblyInfoInputs.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.AssemblyInfo.cs
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.csproj.CoreCompileInputs.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.dll
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.pdb
+C:\Users\SAVAS\source\repos\kamp1. ders\döngüler\obj\Debug\netcoreapp3.1\döngüler.genruntimeconfig.cache

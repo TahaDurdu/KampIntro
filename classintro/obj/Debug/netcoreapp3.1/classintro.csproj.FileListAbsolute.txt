@@ -1,0 +1,13 @@
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\bin\Debug\netcoreapp3.1\classintro.exe
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\bin\Debug\netcoreapp3.1\classintro.deps.json
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\bin\Debug\netcoreapp3.1\classintro.runtimeconfig.json
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\bin\Debug\netcoreapp3.1\classintro.runtimeconfig.dev.json
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\bin\Debug\netcoreapp3.1\classintro.dll
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\bin\Debug\netcoreapp3.1\classintro.pdb
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.csprojAssemblyReference.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.AssemblyInfoInputs.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.AssemblyInfo.cs
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.csproj.CoreCompileInputs.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.dll
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.pdb
+C:\Users\SAVAS\source\repos\kamp1. ders\classintro\obj\Debug\netcoreapp3.1\classintro.genruntimeconfig.cache

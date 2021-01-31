@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kamp1. ders/1.0.0": {
+        "runtime": {
+          "kamp1. ders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kamp1. ders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

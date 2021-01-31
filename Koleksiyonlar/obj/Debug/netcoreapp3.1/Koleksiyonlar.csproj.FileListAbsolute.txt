@@ -1,0 +1,13 @@
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\SAVAS\source\repos\kamp1. ders\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache
